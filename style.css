@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: coral;
+}
+canvas {
+  display: block;
+}
+
+h3,h4{
+  background-color: yellow;
+}
+
+h4{
+  background-color: magenta;
+}
+
+h5{
+  background-color: lightpink;
+}
+
+
+
+
+
+
+
+
+#p1{
+  background-color: yellow;
+}
+
+#code{
+  background-color: yellow;
+}
